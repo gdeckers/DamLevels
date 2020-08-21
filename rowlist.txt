@@ -1,0 +1,7 @@
+,Dam,17/8/2020,Previous week,% 2019
+0,Berg River,101.2,100.5,100.5
+1,Steenbras Lower,91.7,80.9,100.6
+2,Steenbras Upper,100.9,100.6,98.8
+3,Theewaterskloof,80.7,73.6,71.7
+4,Voëlvlei,76.6,73.6,85.1
+5,Wemmershoek,80.5,74.3,87.0

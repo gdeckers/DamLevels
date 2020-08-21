@@ -1,0 +1,7 @@
+Dam,Latitude,Longitude
+Berg River,-33.925000, 19.060833
+Steenbras Lower,-34.179722, 18.876389
+Steenbras Upper,-34.166300, 18.910000
+Theewaterskloof,-34.078100, 19.289200
+Voëlvlei,-33.337500, 19.033600
+Wemmershoek,-33.833600, 19.088900
